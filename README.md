@@ -1,5 +1,5 @@
 - 👋 Hi, It's YouBa
 - 👀 I’m interested in Mmmm
-- 🌱 I’m currently learning How to make a native for girls.lua
+- 🌱 I’m currently learning girls.lua
 - 📫 How to reach me ...
 - Discord : https://discord.gg/AWtvnQsx
